@@ -20,7 +20,7 @@ Este projeto de extensão foca na análise de grandes volumes de dados para iden
 
 Analisar os dados de acidentes em 2023 para:
 
-- Identificar os horários e locais com maior incidência de acidentes.
+- Identificar os locais com maior incidência de acidentes.
 - Compreender as causas mais comuns.
 - Propor melhorias e estratégias para redução de acidentes.
 

@@ -30,9 +30,3 @@ A análise dos dados resultará em gráficos e tabelas que ilustram:
 
 - Número de acidentes por região.
 - Principais causas dos acidentes.
-
-Essas informações podem ser utilizadas por gestores de trânsito e planejadores urbanos para promover ações de segurança e desenvolver políticas preventivas.
-
----
-
-Isso deve garantir que o texto seja exibido de forma clara e organizada no GitHub.

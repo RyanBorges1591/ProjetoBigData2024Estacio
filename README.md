@@ -7,7 +7,7 @@ Este projeto de extensão foca na análise de grandes volumes de dados para iden
 
 1. Extraia o conteúdo da pasta `Projeto Big Data Relatório Acidentes.zip`.
 2. Faça o upload dos arquivos extraídos no [Google Colab](https://colab.research.google.com/).
-3. Execute o notebook para visualizar estatísticas detalhadas e gráficos informativos sobre os acidentes.
+3. Execute o arquivo para visualizar estatísticas detalhadas e gráficos informativos sobre os acidentes.
 
 ## Tecnologias Utilizadas
 
